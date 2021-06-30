@@ -1,0 +1,15 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\bin\Debug\net5.0\P10-AluraCalculaPoupanca.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\bin\Debug\net5.0\P10-AluraCalculaPoupanca.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\bin\Debug\net5.0\P10-AluraCalculaPoupanca.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\bin\Debug\net5.0\P10-AluraCalculaPoupanca.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\bin\Debug\net5.0\P10-AluraCalculaPoupanca.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\bin\Debug\net5.0\ref\P10-AluraCalculaPoupanca.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\bin\Debug\net5.0\P10-AluraCalculaPoupanca.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\P10-AluraCalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\P10-AluraCalculaPoupanca.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\P10-AluraCalculaPoupanca.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\P10-AluraCalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\P10-AluraCalculaPoupanca.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\ref\P10-AluraCalculaPoupanca.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\P10-AluraCalculaPoupanca.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\10-AluraCalculaPoupanca\obj\Debug\net5.0\P10-AluraCalculaPoupanca.genruntimeconfig.cache

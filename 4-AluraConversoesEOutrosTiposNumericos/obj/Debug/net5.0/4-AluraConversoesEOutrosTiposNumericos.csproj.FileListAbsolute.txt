@@ -1,0 +1,16 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\bin\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\bin\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\bin\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\bin\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\bin\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ref\4-AluraConversoesEOutrosTiposNumericos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\bin\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ref\4-AluraConversoesEOutrosTiposNumericos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\4-AluraConversoesEOutrosTiposNumericos\obj\Debug\net5.0\4-AluraConversoesEOutrosTiposNumericos.genruntimeconfig.cache

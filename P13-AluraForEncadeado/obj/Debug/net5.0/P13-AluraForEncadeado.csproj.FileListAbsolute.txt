@@ -1,0 +1,15 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\P13-AluraForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\P13-AluraForEncadeado.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\P13-AluraForEncadeado.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\P13-AluraForEncadeado.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\bin\Debug\net5.0\P13-AluraForEncadeado.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\bin\Debug\net5.0\P13-AluraForEncadeado.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\bin\Debug\net5.0\P13-AluraForEncadeado.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\bin\Debug\net5.0\P13-AluraForEncadeado.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\bin\Debug\net5.0\P13-AluraForEncadeado.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\bin\Debug\net5.0\ref\P13-AluraForEncadeado.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\bin\Debug\net5.0\P13-AluraForEncadeado.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\P13-AluraForEncadeado.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\ref\P13-AluraForEncadeado.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\P13-AluraForEncadeado.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P13-AluraForEncadeado\obj\Debug\net5.0\P13-AluraForEncadeado.genruntimeconfig.cache

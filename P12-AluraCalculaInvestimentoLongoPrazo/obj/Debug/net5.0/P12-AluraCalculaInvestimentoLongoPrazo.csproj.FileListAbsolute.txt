@@ -1,0 +1,16 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\bin\Debug\net5.0\ref\P12-AluraCalculaInvestimentoLongoPrazo.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\ref\P12-AluraCalculaInvestimentoLongoPrazo.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.genruntimeconfig.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P12-AluraCalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-AluraCalculaInvestimentoLongoPrazo.csprojAssemblyReference.cache

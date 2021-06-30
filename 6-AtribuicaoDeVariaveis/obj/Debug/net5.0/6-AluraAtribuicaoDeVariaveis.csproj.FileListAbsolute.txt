@@ -1,0 +1,16 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\ref\6-AluraAtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.csprojAssemblyReference.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\ref\6-AluraAtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AluraAtribuicaoDeVariaveis.genruntimeconfig.cache

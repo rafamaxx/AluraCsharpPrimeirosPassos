@@ -1,0 +1,15 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\ref\P11-CalculaPoupanca2.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\ref\P11-CalculaPoupanca2.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.genruntimeconfig.cache

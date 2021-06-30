@@ -1,0 +1,16 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\bin\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\bin\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\bin\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\bin\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\bin\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\bin\Debug\net5.0\ref\2-AluraPrimeirosPassosVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\bin\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.csprojAssemblyReference.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\ref\2-AluraPrimeirosPassosVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\2-AluraPrimeirosPassosVariaveis\obj\Debug\net5.0\2-AluraPrimeirosPassosVariaveis.genruntimeconfig.cache

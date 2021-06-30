@@ -1,0 +1,15 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\bin\Debug\net5.0\9-AluraCondicionais3.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\bin\Debug\net5.0\9-AluraCondicionais3.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\bin\Debug\net5.0\9-AluraCondicionais3.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\bin\Debug\net5.0\9-AluraCondicionais3.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\bin\Debug\net5.0\9-AluraCondicionais3.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\bin\Debug\net5.0\ref\9-AluraCondicionais3.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\bin\Debug\net5.0\9-AluraCondicionais3.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\9-AluraCondicionais3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\9-AluraCondicionais3.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\9-AluraCondicionais3.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\9-AluraCondicionais3.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\9-AluraCondicionais3.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\ref\9-AluraCondicionais3.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\9-AluraCondicionais3.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\9-AluraCondicionais3\obj\Debug\net5.0\9-AluraCondicionais3.genruntimeconfig.cache

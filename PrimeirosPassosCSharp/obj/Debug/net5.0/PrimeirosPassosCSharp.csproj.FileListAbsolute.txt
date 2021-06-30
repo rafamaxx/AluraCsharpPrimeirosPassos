@@ -1,0 +1,15 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\bin\Debug\net5.0\PrimeirosPassosCSharp.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\bin\Debug\net5.0\PrimeirosPassosCSharp.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\bin\Debug\net5.0\PrimeirosPassosCSharp.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\bin\Debug\net5.0\PrimeirosPassosCSharp.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\bin\Debug\net5.0\PrimeirosPassosCSharp.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\bin\Debug\net5.0\ref\PrimeirosPassosCSharp.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\bin\Debug\net5.0\PrimeirosPassosCSharp.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\PrimeirosPassosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\PrimeirosPassosCSharp.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\PrimeirosPassosCSharp.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\PrimeirosPassosCSharp.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\PrimeirosPassosCSharp.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\ref\PrimeirosPassosCSharp.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\PrimeirosPassosCSharp.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\PrimeirosPassosCSharp\obj\Debug\net5.0\PrimeirosPassosCSharp.genruntimeconfig.cache

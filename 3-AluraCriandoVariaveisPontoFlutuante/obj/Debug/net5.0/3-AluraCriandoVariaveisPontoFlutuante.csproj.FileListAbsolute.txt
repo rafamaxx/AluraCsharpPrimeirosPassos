@@ -1,0 +1,16 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\bin\Debug\net5.0\ref\3-AluraCriandoVariaveisPontoFlutuante.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\bin\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\ref\3-AluraCriandoVariaveisPontoFlutuante.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\3-AluraCriandoVariaveisPontoFlutuante\obj\Debug\net5.0\3-AluraCriandoVariaveisPontoFlutuante.genruntimeconfig.cache

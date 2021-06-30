@@ -1,0 +1,15 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\bin\Debug\net5.0\5-AluraCaracteresETextos.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\bin\Debug\net5.0\5-AluraCaracteresETextos.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\bin\Debug\net5.0\5-AluraCaracteresETextos.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\bin\Debug\net5.0\5-AluraCaracteresETextos.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\bin\Debug\net5.0\5-AluraCaracteresETextos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\bin\Debug\net5.0\ref\5-AluraCaracteresETextos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\bin\Debug\net5.0\5-AluraCaracteresETextos.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\5-AluraCaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\5-AluraCaracteresETextos.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\5-AluraCaracteresETextos.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\5-AluraCaracteresETextos.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\5-AluraCaracteresETextos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\ref\5-AluraCaracteresETextos.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\5-AluraCaracteresETextos.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\5-AluraCaracteresETextos\obj\Debug\net5.0\5-AluraCaracteresETextos.genruntimeconfig.cache

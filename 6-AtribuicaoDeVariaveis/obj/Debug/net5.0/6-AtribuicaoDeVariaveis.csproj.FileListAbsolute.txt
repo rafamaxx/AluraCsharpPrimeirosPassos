@@ -1,0 +1,15 @@
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.exe
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.deps.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.runtimeconfig.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.runtimeconfig.dev.json
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\ref\6-AtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\bin\Debug\net5.0\6-AtribuicaoDeVariaveis.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.AssemblyInfo.cs
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\ref\6-AtribuicaoDeVariaveis.dll
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.pdb
+D:\Workspace\Alura Primeiros Passos\PrimeirosPassosCSharp\6-AtribuicaoDeVariaveis\obj\Debug\net5.0\6-AtribuicaoDeVariaveis.genruntimeconfig.cache
